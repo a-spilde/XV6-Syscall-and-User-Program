@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../../../p/course/cs537-swift/public/scheduler"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"types.h": "c"
+		}
+	}
+}
